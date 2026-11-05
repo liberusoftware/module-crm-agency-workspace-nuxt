@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-agency-workspace-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-agency-workspace",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-agency-workspace-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/agency-workspace.md",
+  "presentationPlan": "projects/crm/nuxt/agency-workspace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
